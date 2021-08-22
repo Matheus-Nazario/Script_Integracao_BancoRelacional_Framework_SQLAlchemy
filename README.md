@@ -11,7 +11,7 @@
 
 ⚙📑📊 Tudo sobre manipulação de arquivos com integração com banco dados, funcionamento do Framework SQLAlchemy com diversos casos de uso para maximizar os seus estudos e otimizar o seu trabalho, utilizando Python. 🐍
 
-Aplicando Object-Relational Mapping (ORM), mapeamento objeto-relacional no framework SQLAlchemy e conectando com o banco de dados SQLITE.
+⚡📈 Aplicando Object-Relational Mapping (ORM), mapeamento objeto-relacional no framework SQLAlchemy e conectando com o banco de dados SQLITE.
  
 </p>
 
