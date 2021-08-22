@@ -3,16 +3,15 @@
     <img src="https://i.ibb.co/1LyDXjc/geek-Matheus.png" alt="geek-Matheus" border="0" /></a>
 </p>
 
-## _Working_ Integracao com Banco de Dados ORM Framework SQLAlchemy 
+## _Working_ Integração com Banco de Dados ORM Framework SQLAlchemy 
 
 <br>
 
 <p align = "center" id = "project">
 
-⚙📑📊 Tudo sobre manipulação de arquivos com integração com banco dados, funcionamento do Framework SQLAlchemy com diversos casos de uso, utilizando Python. 🐍
+⚙📑📊 Tudo sobre manipulação de arquivos com integração com banco dados, funcionamento do Framework SQLAlchemy com diversos casos de uso para maximizar os seus estudos e otimizar o seu trabalho, utilizando Python. 🐍
 
-Aplicando Object-Relational Mapping (ORM), mapeamento objeto-relacional no framework SQLAlchemy.
-Conectando bando de dados SQLITE.
+Aplicando Object-Relational Mapping (ORM), mapeamento objeto-relacional no framework SQLAlchemy e conectando com o banco de dados SQLITE.
  
 </p>
 
@@ -28,6 +27,8 @@ Sobre os programas:
 
 - [Conexao_SQLSERVER](https://github.com/Matheus-Nazario/_Working_Integracao_com_Banco_de_Dados_ORM_Framework_SQLAlchemy/blob/main/Conexao_SQLSERVER.py) </br>` Conexao SQLSERVER necessário instalar o pyodbc, executando no terminal o comando: pip install pyodbc `
 
+
+- [conexao_com_Banco_SQLITE](https://github.com/Matheus-Nazario/_Working_Integracao_com_Banco_de_Dados_ORM_Framework_SQLAlchemy/blob/main/conexao_com_Banco_SQLITE.py) </br>` Passo a passo para desenvolver e criar tabelas realizado uma conexação com o banco de dados SQLITE`
 
 <br>
 </br>
